@@ -1,0 +1,119 @@
+{
+  "users": [
+    {
+      "name": "sameer mortaj",
+      "email": "ghost13@gmail.com",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "monme Azzam ",
+      "email": "mon@gamil.com",
+      "password": "12345678",
+      "id": 2
+    }
+  ],
+  "locations": [
+    {
+      "name": "sameer rest",
+      "phone": "0594147887",
+      "address": "el nadeem streat",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "sayed  shrare ",
+      "phone": "0561234567",
+      "address": "shrare street1",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "flafel food",
+      "phone": "0599346215",
+      "address": "Gaza , El-Remal",
+      "userId": 2,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Dinner",
+      "userId": 1,
+      "locationId": 1,
+      "id": 1
+    },
+    {
+      "name": "Break fast",
+      "userId": 1,
+      "locationId": 1,
+      "id": 2
+    },
+    {
+      "name": "hi every one",
+      "userId": 1,
+      "locationId": 1,
+      "id": 3
+    },
+    {
+      "name": "flafel",
+      "userId": 2,
+      "locationId": 5,
+      "id": 4
+    },
+    {
+      "name": "Hummus",
+      "userId": 2,
+      "locationId": 5,
+      "id": 5
+    },
+    {
+      "name": "beans",
+      "userId": 2,
+      "locationId": 5,
+      "id": 6
+    }
+  ],
+  "items": [
+    {
+      "name": "Philly steak sandwich",
+      "price": 35.99,
+      "description": "Server with fries and Drink",
+      "qty": 230,
+      "userId": 1,
+      "catId": 5,
+      "locId": 4,
+      "id": 4
+    },
+    {
+      "name": "Philly steak sandwich",
+      "price": 35.99,
+      "description": "Server with fries and Drink",
+      "qty": 230,
+      "userId": 1,
+      "catId": 7,
+      "locId": 4,
+      "id": 11
+    },
+    {
+      "name": "Philly steak sandwich",
+      "price": 35.99,
+      "description": "Server with fries and Drink",
+      "qty": 230,
+      "userId": 1,
+      "catId": 5,
+      "locId": 4,
+      "id": 5
+    },
+    {
+      "name": "Philly steak sandwich",
+      "price": 35.99,
+      "description": "Server with fries and Drink",
+      "qty": 230,
+      "userId": 1,
+      "catId": 5,
+      "locId": 5,
+      "id": 6
+    }
+  ]
+}
