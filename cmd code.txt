@@ -1,0 +1,45 @@
+create project :
+>vue create "rest-sys-2021
+
+select some options:
+Vue CLI v5.0.8
+? Please pick a preset: projectvuejs3 ([Vue 3] dart-sass, babel,
+router, vuex, eslint)
+
+to open server
+>npm run serve -> http://localhost:8080/
+
+
+more liprary
+>npm install bootstrap jquery popper.js normalize.css
+
+
+> npm install --save @popperjs/core
+
+if you have any error 
+> npm install
+
+for online database
+> npm install axios
+
+to create json files to get it from server
+> npm install -g json-serve
+
+to validate inputs 
+>npm install @vuelidate/core @vuelidate/validators
+
+to create server to get my data in local host 
+json-server --watch db.json (db.json is name of file)
+
+return 
+ Resources
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/profile
+
+  Home
+  http://localhost:3000
+
+
+
+
