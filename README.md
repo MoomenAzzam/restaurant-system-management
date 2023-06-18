@@ -42,7 +42,8 @@ json-server --watch db.json
 ```
 
 # Some pictures from the project
-![SignUp](https://imgur.com/DkQgJgA)
+
+[SignUp](https://imgur.com/DkQgJgA)
 
 ![Menu Of Restaurant](https://imgur.com/YDwi7lL)
 
