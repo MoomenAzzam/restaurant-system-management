@@ -43,10 +43,11 @@ json-server --watch db.json
 
 # Some pictures from the project
 
-[SignUp](https://imgur.com/DkQgJgA)
+![signup](https://github.com/MoomenAzzam/restaurant-system-management/assets/82784364/eda34afd-0f38-4ad2-a3cc-dca0254645b2)
 
-[Menu Of Restaurant](https://imgur.com/YDwi7lL)
+![Menu Of Restaurant](https://github.com/MoomenAzzam/restaurant-system-management/assets/82784364/c9ac949f-0e2e-4683-a5c3-8408f2d9faf0)
 
-[List Of Items](https://imgur.com/ncgAeAM)
+![List Of Items](https://github.com/MoomenAzzam/restaurant-system-management/assets/82784364/94044a86-c12c-432a-baa3-fe001e544f2f)
 
-[Update Items](https://imgur.com/uKWn0B6)
+![Update Items](https://github.com/MoomenAzzam/restaurant-system-management/assets/82784364/8b09025f-6095-4f84-ba97-204b885b5a9d)
+
