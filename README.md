@@ -45,8 +45,8 @@ json-server --watch db.json
 
 [SignUp](https://imgur.com/DkQgJgA)
 
-![Menu Of Restaurant](https://imgur.com/YDwi7lL)
+[Menu Of Restaurant](https://imgur.com/YDwi7lL)
 
-![List Of Items](https://imgur.com/ncgAeAM)
+[List Of Items](https://imgur.com/ncgAeAM)
 
-![Update Items](https://imgur.com/uKWn0B6)
+[Update Items](https://imgur.com/uKWn0B6)
